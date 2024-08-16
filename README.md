@@ -4,6 +4,9 @@
 
 ## Grob-Planung
 
+1. Ich stehe momentan mit einem 5.5 Schnitt.
+2. Ich möchte Javascrpt kennen lernen
+3. Ich möchte in dieser LP die Lern-Periode benutzen um mich für die MOdule zu konzentrieren.
 
 ## 16.8.2024
 
