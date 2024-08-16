@@ -10,19 +10,18 @@
 
 ## 16.8.2024
 
-- [ ] Ich werde die Hausaufgaben im Fach Geschichte und Franz erledigen
-- [ ] Ich werde Tutorials über C# Regeln und Commands anschauen um mein Wissen in dieser Sprache zu vertiefen
-- [ ] Ich werde das Video Modul 322 zur Context Inquiry fertig anschauen
+- [x] Ich werde die Hausaufgaben im Fach Geschichte und Franz erledigen
+- [x] Ich werde Tutorials über C# Regeln und Commands anschauen um mein Wissen in dieser Sprache zu vertiefen
+- [x] Ich werde das Video Modul 322 zur Context Inquiry fertig anschauen
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich am Anfang der Lektion meine Hausaufgaben in den vorgegebenen Fächer gelöst. Ich habe mich nachher mit den verschiedenen Commands wie get, set, protectet, etc. vertieft. Ich habe noch gelernt, wie man anstatt get return "muster", einfach den string und dann => verwenden kann. Im letzten Arbeitspaket habe ich mir das Video über Context Inquiry / Isst Zustand fertig angeschaut. 
 
 ## 23.8.2024
 
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
+- [ ] Ich möchte mich das restliche Video über C# commands anschauen (über verschiedene var, switch, foreach, etc.)
+- [ ] Ich werde die Aufträge in den Modulen fertig erarbeiten
+- [ ] Ich werde in einer Gruppe ein "Poker Spiel" anfangen zu programmieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
