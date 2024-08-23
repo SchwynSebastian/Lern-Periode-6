@@ -20,10 +20,15 @@
 ## 23.8.2024
 
 - [x] Ich möchte mich das restliche Video über C# commands anschauen (über verschiedene var, switch, foreach, etc.)
-- [x] Ich werde Abschreibungen Verluste aus Forderungen/Wertberechtigung für die Repetitionsprüfung anschauen und erneut erlernen
+- [x] Ich werde Abschreibungen, Verluste aus Forderungen/Wertberechtigung für die Repetitionsprüfung anschauen und erneut erlernen
 - [ ] Ich werde in einer Gruppe ein "Poker Spiel" anfangen zu programmieren
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich am Anfang der Lektion mit der Kalkulation und Abschreibungen bschäftigt. Ich habe mir danach eine Pause davon genommen und mir ein Paar Videisüber C# commands angeschaut. Ich habe danach weiterhin im Fach Rechnungswesen eine Repetition des ganzen Themas durchgenommen um 100% bereit für die Prüfung zu sein. Ich hatte leider keine Zeit um das Poker Spiek anzufangen.
+
+- [ ] Ich werde in einer Gruppe ein "Poker Spiel" anfangen zu programmieren
+- [ ] Mich ein Video/ChatGPT über C# einen "Random" generator und einer speziellen Schleife informieren
+- [ ] Mich im M322 im Bereich Personas und Contextual Inquiry vertiefen
+
 
 
 ## Reflexion
