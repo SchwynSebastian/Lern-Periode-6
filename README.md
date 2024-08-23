@@ -19,8 +19,8 @@
 
 ## 23.8.2024
 
-- [ ] Ich möchte mich das restliche Video über C# commands anschauen (über verschiedene var, switch, foreach, etc.)
-- [ ] Ich werde Abschreibungen Verluste aus Forderungen/Wertberechtigung für die Repetitionsprüfung anschauen und erneut erlernen
+- [x] Ich möchte mich das restliche Video über C# commands anschauen (über verschiedene var, switch, foreach, etc.)
+- [x] Ich werde Abschreibungen Verluste aus Forderungen/Wertberechtigung für die Repetitionsprüfung anschauen und erneut erlernen
 - [ ] Ich werde in einer Gruppe ein "Poker Spiel" anfangen zu programmieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
