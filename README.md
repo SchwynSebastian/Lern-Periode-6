@@ -27,11 +27,17 @@
 
 ## 30.8.2024
 
-- [ ] Ich werde in einer Gruppe ein "Poker Spiel" anfangen zu programmieren
-- [ ] Mich ein Video/ChatGPT über C# einen "Random" generator und einer speziellen Schleife informieren
-- [ ] Mich im M322 im Bereich Personas und in der Grundsätze der Dialoggestaltung vertiefen
+- [x] Ich werde ein "Poker Spiel" anfangen zu programmieren
+- [x] Mich ein Video/ChatGPT über C# einen "Random" generator und einer speziellen Schleife informieren
+- [x] Mich im M322 im Bereich Personas und in der Grundsätze der Dialoggestaltung vertiefen
 
+✍️ Heute habe ich mich lange mit dem "Poker Spiel" auseinandergesetzt. Ich habe mir am Anfang überlegt, wie die Struktur und Aufbau meines Programm fortlaufen sollte. Ich habe mir währenddesssen mich mit ChatGPT über Winforms informiert und den Grundriss meines Programs codiert und die geplannte Struktur notiert. Ich habe mir aber auch noch ein bisschen Zeit für die Repetition von Persons und die Grundsätze der Dialoggestaltung genommen.
 
+6.9.2024
+
+- [ ] 
+- [ ] 
+- [ ]
 
 ## Reflexion
 
