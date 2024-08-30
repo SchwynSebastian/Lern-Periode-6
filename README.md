@@ -27,7 +27,7 @@
 
 - [ ] Ich werde in einer Gruppe ein "Poker Spiel" anfangen zu programmieren
 - [ ] Mich ein Video/ChatGPT über C# einen "Random" generator und einer speziellen Schleife informieren
-- [ ] Mich im M322 im Bereich Personas und Contextual Inquiry vertiefen
+- [ ] Mich im M322 im Bereich Personas und in der Grundsätze der Dialoggestaltung vertiefen
 
 
 
