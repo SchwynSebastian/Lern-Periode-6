@@ -25,6 +25,8 @@
 
 ✍️ Heute habe ich mich am Anfang der Lektion mit der Kalkulation und Abschreibungen bschäftigt. Ich habe mir danach eine Pause davon genommen und mir ein Paar Videisüber C# commands angeschaut. Ich habe danach weiterhin im Fach Rechnungswesen eine Repetition des ganzen Themas durchgenommen um 100% bereit für die Prüfung zu sein. Ich hatte leider keine Zeit um das Poker Spiek anzufangen.
 
+## 30.8.2024
+
 - [ ] Ich werde in einer Gruppe ein "Poker Spiel" anfangen zu programmieren
 - [ ] Mich ein Video/ChatGPT über C# einen "Random" generator und einer speziellen Schleife informieren
 - [ ] Mich im M322 im Bereich Personas und in der Grundsätze der Dialoggestaltung vertiefen
