@@ -35,9 +35,8 @@
 
 6.9.2024
 
-- [ ] 
-- [ ] 
-- [ ]
+- [ ] Ich werde mich für die Deutschprüfung über Textgebundene Erörterung vorbereiten
+- [ ] Ich werde die Oberflächige Gestalung meines Spiels (forms) erstellen1
 
 ## Reflexion
 
