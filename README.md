@@ -35,8 +35,10 @@
 
 6.9.2024
 
-- [ ] Ich werde mich für die Deutschprüfung über Textgebundene Erörterung vorbereiten
-- [ ] Ich werde die Oberflächige Gestalung meines Spiels (forms) erstellen1
+- [x] Ich werde mich für die Deutschprüfung über Textgebundene Erörterung vorbereiten
+- [x] Ich werde die Oberflächige Gestalung meines Spiels (forms) erstellen
+
+Ich habe mich am Anfang des Unterricht mit den Aufbau der Textgebundenen Erörterung genommen. ich habe mir nachher sehr viel Zeit genommen um meine Überlegungen zu sammeln und den Aufbau, Ablauf des Poker Spiels zu entwerfen. Ich habe die Startseite fast fertig Programmiert und fange nächstes mal an den Hauppteil des Programm zu pogrammieren und gestalten. 
 
 ## Reflexion
 
