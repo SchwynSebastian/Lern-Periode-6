@@ -40,6 +40,14 @@
 
 Ich habe mich am Anfang des Unterricht mit den Aufbau der Textgebundenen Erörterung genommen. ich habe mir nachher sehr viel Zeit genommen um meine Überlegungen zu sammeln und den Aufbau, Ablauf des Poker Spiels zu entwerfen. Ich habe die Startseite fast fertig Programmiert und fange nächstes mal an den Hauppteil des Programm zu pogrammieren und gestalten. 
 
+- [ ] Ich werde mir die Abhängigkeiten der Aggregation repetieren und vertiefen
+- [ ] Ich werde mich im M322 in HiFi vertiefen und mich für die LB vorbereiten
+- [ ] j
+
+
+
+
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
