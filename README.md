@@ -33,21 +33,26 @@
 
 ✍️ Heute habe ich mich lange mit dem "Poker Spiel" auseinandergesetzt. Ich habe mir am Anfang überlegt, wie die Struktur und Aufbau meines Programm fortlaufen sollte. Ich habe mir währenddesssen mich mit ChatGPT über Winforms informiert und den Grundriss meines Programs codiert und die geplannte Struktur notiert. Ich habe mir aber auch noch ein bisschen Zeit für die Repetition von Persons und die Grundsätze der Dialoggestaltung genommen.
 
-6.9.2024
+ ## 6.9.2024
 
 - [x] Ich werde mich für die Deutschprüfung über Textgebundene Erörterung vorbereiten
 - [x] Ich werde die Oberflächige Gestalung meines Spiels (forms) erstellen
 
 Ich habe mich am Anfang des Unterricht mit den Aufbau der Textgebundenen Erörterung genommen. ich habe mir nachher sehr viel Zeit genommen um meine Überlegungen zu sammeln und den Aufbau, Ablauf des Poker Spiels zu entwerfen. Ich habe die Startseite fast fertig Programmiert und fange nächstes mal an den Hauppteil des Programm zu pogrammieren und gestalten. 
 
-13.9.2024
+## 13.9.2024
 
 - [x] Ich werde mir die Abhängigkeiten der Aggregation repetieren und vertiefen
 - [x] Ich werde mich im M322 in HiFi vertiefen und mich für die LB vorbereiten
 - [x] Ich werde für das Modul 231 die Aufgabe AGBs und Lizenzenformen bearbeiten 
 
-Ich habe heute zuerst die Aufgaben im Modul 231 bearbeitet. Ich habe die AGBs von Lidl detailliert analysiert und beschrieben. Dazu habe ich nachher noch die verschiedenen Lizenformen angeschaut und die Aufgabe dafür gelöst. Ich habe mich nachher mit derm HiFi beschäftigt, dass ich Donnerstag morgen angefangen haben, die HTML/CSS Website feritg zu programmieren. Ich wurde ziemlich schnell fertig und hatte noch etwas Zeit übrig um mir die Aggreationen anzuschauen. 
+Ich habe heute zuerst die Aufgaben im Modul 231 bearbeitet. Ich habe die AGBs von Lidl detailliert analysiert und beschrieben. Dazu habe ich nachher noch die verschiedenen Lizenformen angeschaut und die Aufgabe dafür gelöst. Ich habe mich nachher mit derm HiFi beschäftigt, dass ich Donnerstag morgen angefangen haben, die HTML/CSS Website feritg zu programmieren. Ich wurde ziemlich schnell fertig und hatte noch etwas Zeit übrig um mir die Aggreationen anzuschauen.
 
+## 20.09.2024
+
+- [ ] s
+- [ ] s
+- [ ] s
 
 
 ## Reflexion
