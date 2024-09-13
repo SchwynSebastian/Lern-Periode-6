@@ -42,7 +42,7 @@ Ich habe mich am Anfang des Unterricht mit den Aufbau der Textgebundenen Erörte
 
 - [ ] Ich werde mir die Abhängigkeiten der Aggregation repetieren und vertiefen
 - [ ] Ich werde mich im M322 in HiFi vertiefen und mich für die LB vorbereiten
-- [ ] j
+- [ ] Ich werde für das Modul 231 die Aufgabe AGBs und Lizenzenformen bearbeiten 
 
 
 
