@@ -40,11 +40,13 @@
 
 Ich habe mich am Anfang des Unterricht mit den Aufbau der Textgebundenen Erörterung genommen. ich habe mir nachher sehr viel Zeit genommen um meine Überlegungen zu sammeln und den Aufbau, Ablauf des Poker Spiels zu entwerfen. Ich habe die Startseite fast fertig Programmiert und fange nächstes mal an den Hauppteil des Programm zu pogrammieren und gestalten. 
 
-- [ ] Ich werde mir die Abhängigkeiten der Aggregation repetieren und vertiefen
-- [ ] Ich werde mich im M322 in HiFi vertiefen und mich für die LB vorbereiten
-- [ ] Ich werde für das Modul 231 die Aufgabe AGBs und Lizenzenformen bearbeiten 
+13.9.2024
 
+- [x] Ich werde mir die Abhängigkeiten der Aggregation repetieren und vertiefen
+- [x] Ich werde mich im M322 in HiFi vertiefen und mich für die LB vorbereiten
+- [x] Ich werde für das Modul 231 die Aufgabe AGBs und Lizenzenformen bearbeiten 
 
+Ich habe heute zuerst die Aufgaben im Modul 231 bearbeitet. Ich habe die AGBs von Lidl detailliert analysiert und beschrieben. Dazu habe ich nachher noch die verschiedenen Lizenformen angeschaut und die Aufgabe dafür gelöst. Ich habe mich nachher mit derm HiFi beschäftigt, dass ich Donnerstag morgen angefangen haben, die HTML/CSS Website feritg zu programmieren. Ich wurde ziemlich schnell fertig und hatte noch etwas Zeit übrig um mir die Aggreationen anzuschauen. 
 
 
 
