@@ -50,9 +50,9 @@ Ich habe heute zuerst die Aufgaben im Modul 231 bearbeitet. Ich habe die AGBs vo
 
 ## 20.09.2024
 
-- [ ] s
-- [ ] s
-- [ ] s
+- [ ] Mich mit der OBA beschäftigen
+- [ ] Im Modul 231 die freiwillige Zusatzaufgabe über AGBs lösen.
+- [ ] Im Modul 322 die User Szenarien, User Storys und Personas näher anschauen und repetieren.
 
 
 ## Reflexion
