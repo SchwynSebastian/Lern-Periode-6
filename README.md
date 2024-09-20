@@ -54,6 +54,7 @@ Ich habe heute zuerst die Aufgaben im Modul 231 bearbeitet. Ich habe die AGBs vo
 - [x] Im Modul 231 die freiwillige Zusatzaufgabe über AGBs lösen.
 - [x] Im Modul 322 die User Szenarien, User Storys und Personas näher anschauen und repetieren.
 
+Ich habe in diesem Arbeitsstag, Themen im Modul 322 für die LB repetiert. Ich habe mich am Anfang mit den Personas und dazugehörigen Szenarien und User Stories ein paar Prototypen erstellt. Ich habe mir danch die PP Folie angeschaut um zu überprüfen, ob ich die Aufgaben richtig erstellt habe. Danach hatte ich noch Zeit die freiwillige Aufgabe über AGBs zu lösen. Ich bekamm hatte nicht genug Zeit um mit der OBA anzufangen, konnte mir schon einen Einblick ins Thema verschaffen.
 
 ## Reflexion
 
